@@ -11,7 +11,7 @@ I also have industry experience as a data scientist in **time series analysis** 
 
 Below are some excerpts from my past work. Feel free to visit my <a href="github.com/mbarsbey">GitHub page</a>, my <a href="https://linkedin.com/in/melih-barsbey-b3626096/">LinkedIn profile</a>, or to e-mail me through _melih.barsbey at gmail.com_ for any questions.
 
-## Causal discovery using Bayesian model selection
+### Causal discovery using Bayesian model selection
 
 Our latest research involves the **use of Bayesian model selection to conduct causal structure learning** in the presence of latent confounders, including the notorious case of bivariate data. For example, distinguishing between the three graphical models depicted below is a challanging task. It corresponds to detection of direction of causation (or lack thereof) between two observed variables, while accounting for an unobserved latent variable:
 
@@ -19,7 +19,7 @@ Our latest research involves the **use of Bayesian model selection to conduct ca
 
 We are currently furthering our work by using Bayesian inference to obtain confounder representations (e.g. by sampling from the posterior distribution of the latent confounder) and to produce counterfactual predictions on the individual level.
 
-## Model selection in graphical models by sequential Monte Carlo
+### Model selection in graphical models by sequential Monte Carlo
 
 We develop a dynamic generative allocation model, in which allocations are made according to a Bayesian network, and marginals of which correspond to a P\u{o}lya urn process. Our formulation allows us to develop a sequential Monte Carlo algorithm with which we can conduct model selection through an **unbiased estimation of marginal likelihood** in arbitrary Bayesian networks including those which correspond to various topic models and tensor factorizations. 
 
@@ -27,7 +27,7 @@ We develop a dynamic generative allocation model, in which allocations are made 
 
 The estimator also has the favorable property of computationally scaling with the number of instances as opposed to methods like VB, which scale with the cardinality of the variables. This feature makes the method favorable especially in cases such as decomposition of large, sparse tensors.
 
-## Industry projects
+### Industry projects
 
 I have worked for two years as a data scientist in a software consultancy start-up in the financial sector. I have conducted **time series analysis** on financial data extensively, where I was the lead developer of an **ATM cash management forecast engine** that managed approximately **8000 ATMs daily**. 
 
@@ -35,7 +35,7 @@ I have **lead a team of 5 data scientists** in a successful branch cash manageme
 
 I have also conducted statistical learning on **high dimensional financial and business data sets**: e.g.  behavior oriented dimensionality reduction on bank customer interaction data, Bayesian modeling of customer call success for a bank's call center, and employee churn prediction for a high turnover business.
 
-## Background in behavioral and cognitive science
+### Background in behavioral and cognitive science
 
 I have also extensive experience with experiment design and statistical inference in **cognitive science**. In my master's research I conducted on an experimental investigation on the **mental representations of textual narratives**. In my research visit to **UC Berkeley's Concepts and Cognition Lab**, I have conducted research on the **cognitive science of explanations**. I have also taught introductory statistics courses for psychology students that included **descriptive and inferential statistical methods** for social sciences.
 
