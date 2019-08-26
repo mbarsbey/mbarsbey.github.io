@@ -17,7 +17,7 @@ Below you can find examples from recent and past work. Feel free to visit my <a 
 - Kurutmaz, M. B.\*, **Barsbey, M.\***, Cemgil, A. T., Yıldırım, S., & Şimşekli, U. _Causal Structure Learning in the Presence of Latent Confounders_, submitted to _Advances in Neural Information Processing Systems_, 2019. \*Equal contribution
 - Cemgil, A. T., Kurutmaz, M. B., Yildirim, S., **Barsbey, M.**, Simsekli, U. _Bayesian Allocation Model: Model Selection for Graphical Models with Latent Variables using Polya Urns_, submitted to _Bayesian Analysis_, 2019.  
 
-See my CV from the link above for full list of publications.
+Please see my <a href="images/melih_barsbey_cv">CV</a> for full list of publications.
 
 ## Excerpts from current and past work
 ### Causal discovery using Bayesian model selection
