@@ -5,9 +5,9 @@ published: true
 ---
 
 
-I am a computer engineering PhD student with a focus on probabilistic machine learning. My research areas comprise of **causal inference, model selection, and latent variable modeling**. 
+I am a computer engineering PhD student with a focus on probabilistic machine learning. My research areas include **causal inference, model selection, and latent variable modeling**. My advisor is Prof. **A. Taylan Cemgil** of Bogazici University, Istanbul. 
 
-My advisor is Prof. **A. Taylan Cemgil** of Bogazici University, Istanbul. I have industry experience as a data scientist in time series analysis and high dimensional financial data. I also have a background in experiment design, research, and statistical inference in cognitive science.
+I also have industry experience as a data scientist in **time series analysis and high dimensional financial data**. I also have a background in experiment design, research, and statistical inference in **cognitive science**.
 
 Below are some excerpts from my past work. Feel free to visit my <a href="github.com/mbarsbey">GitHub page</a>, my <a href="https://linkedin.com/in/melih-barsbey-b3626096/">LinkedIn profile</a>, and to e-mail me through _melih.barsbey at gmail.com_ for any questions.
 
@@ -17,7 +17,7 @@ Our latest research involves the **use of Bayesian model selection to conduct ca
 
 ![_config.yml]({{ site.baseurl }}/images/three_causal_hypotheses.png)
 
-We also use Bayesian inference to obtain confounder representations (e.g. by sampling from the posterior distribution of the latent confounder) and to produce counterfactual predictions.
+We currently work on using Bayesian inference to obtain confounder representations (e.g. by sampling from the posterior distribution of the latent confounder) and to produce counterfactual predictions on the individual level.
 
 ## Model selection in graphical models through sequential Monte Carlo
 
@@ -37,6 +37,6 @@ I have also conducted **statistical learning on high dimensional financial and b
 
 ## Background in behavioral and cognitive science
 
-I have also extensive experience with experiment design and statistical inference in behavioral science. In my master's research I conducted on an experimental investigation on the mental representation on textual narratives. In my visit to UC Berkeley's Concepts and Cognition Lab, I have conducted research on the cognitive science of explanations. I have also taught introductory statistics courses for psychology students that included descriptive and inferential statistical methods.
+I have also extensive experience with experiment design and statistical inference in **cognitive science**. In my master's research I conducted on an experimental investigation on the **mental representations of textual narratives**. In my research visit to **UC Berkeley's Concepts and Cognition Lab**, I have conducted research on the **cognitive science of explanations**. I have also taught introductory statistics courses for psychology students that included **descriptive and inferential statistical methods** for social sciences.
 
 Images courtesy of BAM Research Group.
