@@ -18,7 +18,7 @@ avatar: /images/0.jpeg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: melih.barsbey@gmail.com
   facebook:
   flickr:
   github: github.com/mbarsbey
@@ -70,7 +70,7 @@ kramdown:
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-  style: :expanded # You might prefer to minify using :compressed
+  style: :compressed # You might prefer to minify using :compressed
 
 # Use the following plug-ins
 gems:
