@@ -5,7 +5,11 @@ published: true
 ---
 
 
-I am a computer engineering PhD student with a focus on probabilistic machine learning. My research areas comprise of **causal inference, model selection, and latent variable modeling**. My advisor is Prof. A. Taylan Cemgil of Bogazici University, Istanbul. I have industry experience as a data scientist in time series analysis and high dimensional financial data. I also have a background in experiment design, research, and statistical inference in cognitive science.
+I am a computer engineering PhD student with a focus on probabilistic machine learning. My research areas comprise of **causal inference, model selection, and latent variable modeling**. 
+
+My advisor is Prof. **A. Taylan Cemgil** of Bogazici University, Istanbul. I have industry experience as a data scientist in time series analysis and high dimensional financial data. I also have a background in experiment design, research, and statistical inference in cognitive science.
+
+Below are some excerpts from my past work. Feel free to visit my GitHub page, my LinkedIn profile, and to e-mail me through melih.barsbey at gmail.com for any questions.
 
 ## Causal discovery using Bayesian model selection
 
@@ -17,9 +21,9 @@ We also use Bayesian inference to obtain confounder representations (e.g. by sam
 
 ## Model selection in graphical models through sequential Monte Carlo
 
-We use a dynamic formulation of Bayesian networks with discrete data, which corresponds to a simple Polya urn process. Our formulation allows us to develop a sequential Monte Carlo algorithm with which we can conduct model selection through an unbiased estimation of marginal likelihood in Bayesian networks including topic models and tensor factorizations. 
+We use a dynamic formulation of Bayesian networks with discrete data, which corresponds to a **Polya urn process**. Our formulation allows us to develop a sequential Monte Carlo algorithm with which we can conduct model selection through an **unbiased estimation of marginal likelihood** in arbitrary Bayesian networks including those which correspond to various topic models and tensor factorizations. 
 
-
+![_config.yml]({{ site.baseurl }}/images/polya.png)
 
 The estimator also has the favorable property of computationally scaling with the number of instances as opposed to methods like VB, which scale with the cardinality of the variables. This feature makes the method favorable especially in cases such as decomposition of large, sparse tensors.
 
