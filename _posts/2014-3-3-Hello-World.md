@@ -27,9 +27,15 @@ We use a dynamic formulation of Bayesian networks with discrete data, which corr
 
 The estimator also has the favorable property of computationally scaling with the number of instances as opposed to methods like VB, which scale with the cardinality of the variables. This feature makes the method favorable especially in cases such as decomposition of large, sparse tensors.
 
-## Examining the relationship between model complexity vs. environment uncertainty using agent based modeling
+## Industry projects
 
-This exploratory project aimed to recreate the oft-cited claim in the field of 
+I have worked for two years as a data scientist in a software consultancy start-up in the financial sector. I have conducted time series analysis on financial data extensively where I was the lead developer of an ATM cash management forecast engine that managed approximately 8000 ATMs daily. 
+
+I have lead a team of 5 data scientists onto a successful branch cash management proof of concept for a major Turkish bank with more than 800 branches, leading to savings of more than 30%. There I also oversaw the development of a simulation engine for what-if scenarios, which successfully predicted the savings obtained later. 
+
+I have also conducted statistical learning on high dimensional financial and business data sets: e.g.  behavior oriented dimensionality reduction on bank customer interaction data, Bayesian modeling of customer call success for a bank's call center, and employee churn prediction for a high turnover business.
+
+## Background in behavioral and cognitive science
 
 
 
