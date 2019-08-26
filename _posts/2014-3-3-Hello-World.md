@@ -41,4 +41,6 @@ I have also extensive experience with experiment design and statistical inferenc
 
 In a work presented at the Summer Institute on Bounded Rationality in **Max Planck Institute on Human Development** I have presented exploratory work to investigate the effect of model complexity on survival in high uncertainty environments, using **agent-based modeling.**
 
+
+
 _Images courtesy of BAM Research Group_
