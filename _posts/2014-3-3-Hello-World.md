@@ -21,7 +21,7 @@ We are currently furthering our work by using Bayesian inference to obtain confo
 
 ### Model selection in graphical models by sequential Monte Carlo
 
-We develop a dynamic generative allocation model, in which allocations are made according to a Bayesian network, and marginals of which correspond to a P$\u{o}$lya urn process. Our formulation allows us to develop a sequential Monte Carlo algorithm with which we can conduct model selection through an **unbiased estimation of marginal likelihood** in arbitrary Bayesian networks including those which correspond to various topic models and tensor factorizations. 
+We develop a dynamic generative allocation model, in which allocations are made according to a Bayesian network, and marginals of which correspond to a P\$\u{o}\$lya urn process. Our formulation allows us to develop a sequential Monte Carlo algorithm with which we can conduct model selection through an **unbiased estimation of marginal likelihood** in arbitrary Bayesian networks including those which correspond to various topic models and tensor factorizations. 
 
 ![_config.yml]({{ site.baseurl }}/images/polya_s.png)
 
