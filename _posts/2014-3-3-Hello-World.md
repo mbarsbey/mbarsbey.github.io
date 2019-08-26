@@ -20,7 +20,6 @@ Below are my publications and some excerpts from my past work. Feel free to visi
 See my CV from the link above for full list of publications.
 
 ## Excerpts from current work
-
 ### Causal discovery using Bayesian model selection
 
 Our latest research involves the **use of Bayesian model selection to conduct causal structure learning** in the presence of latent confounders, including the notorious case of bivariate data. For example, distinguishing between the three graphical models depicted below is a challanging task. It corresponds to detection of direction of causation (or lack thereof) between two observed variables, while accounting for an unobserved latent variable:
