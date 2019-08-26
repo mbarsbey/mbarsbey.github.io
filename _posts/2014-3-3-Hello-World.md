@@ -5,21 +5,21 @@ published: true
 ---
 
 
-I am a computer engineering PhD student with a focus on probabilistic machine learning. My research areas include **causal inference, model selection, and latent variable modeling**. My advisor is Prof. **A. Taylan Cemgil** of Bogazici University, Istanbul. 
+I am a Computer Engineering PhD student with a focus on probabilistic machine learning. My research areas include **causal inference, model selection, and latent variable modeling**. My advisor is **Prof. A. Taylan Cemgil** of Bogazici University, Istanbul. 
 
-I also have industry experience as a data scientist in **time series analysis and high dimensional financial data**. I also have a background in experiment design, research, and statistical inference in **cognitive science**.
+I also have industry experience as a data scientist in **time series analysis and high dimensional financial data** as well as a background in experiment design, research, and statistical inference in **cognitive science**.
 
-Below are some excerpts from my past work. Feel free to visit my <a href="github.com/mbarsbey">GitHub page</a>, my <a href="https://linkedin.com/in/melih-barsbey-b3626096/">LinkedIn profile</a>, and to e-mail me through _melih.barsbey at gmail.com_ for any questions.
+Below are some excerpts from my past work. Feel free to visit my <a href="github.com/mbarsbey">GitHub page</a>, my <a href="https://linkedin.com/in/melih-barsbey-b3626096/">LinkedIn profile</a>, or to e-mail me through _melih.barsbey at gmail.com_ for any questions.
 
 ## Causal discovery using Bayesian model selection
 
-Our latest research involves the **use of Bayesian model selection to conduct causal structure learning** in the presence of latent confounders, including the notorious case of bivariate data. For example, distinguishing between the three graphical models depicted below is a challanging task, given that the last two are Markov equivalent.
+Our latest research involves the **use of Bayesian model selection to conduct causal structure learning** in the presence of latent confounders, including the notorious case of bivariate data. For example, distinguishing between the three graphical models depicted below is a challanging task. It corresponds to detection of direction of causation (or lack thereof) between two observed variables, while accounting for unobserved latent variables:
 
 ![_config.yml]({{ site.baseurl }}/images/three_causal_hypotheses.png)
 
-We currently work on using Bayesian inference to obtain confounder representations (e.g. by sampling from the posterior distribution of the latent confounder) and to produce counterfactual predictions on the individual level.
+We are currently developing our work by using Bayesian inference to obtain confounder representations (e.g. by sampling from the posterior distribution of the latent confounder) and to produce counterfactual predictions on the individual level.
 
-## Model selection in graphical models through sequential Monte Carlo
+## Model selection in graphical models by sequential Monte Carlo
 
 We use a dynamic formulation of Bayesian networks with discrete data, which corresponds to a **Polya urn process**. Our formulation allows us to develop a sequential Monte Carlo algorithm with which we can conduct model selection through an **unbiased estimation of marginal likelihood** in arbitrary Bayesian networks including those which correspond to various topic models and tensor factorizations. 
 
