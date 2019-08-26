@@ -21,7 +21,7 @@ We use a dynamic formulation of Bayesian networks with discrete data, which corr
 
 
 
-The estimator also has the favorable property of scaling with the number of instances as opposed to methods like VB, which scale with the cardinality of the variables. This feature makes the method favorable especially in cases such as decomposition of large, sparse tensors.
+The estimator also has the favorable property of computationally scaling with the number of instances as opposed to methods like VB, which scale with the cardinality of the variables. This feature makes the method favorable especially in cases such as decomposition of large, sparse tensors.
 
 ## Examining the relationship between model complexity vs. environment uncertainty using agent based modeling
 
