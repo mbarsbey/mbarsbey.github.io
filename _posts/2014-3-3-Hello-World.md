@@ -14,7 +14,7 @@ Below are my publications and some excerpts from my past work. Feel free to visi
 
 ### Recent Submissions
 
-- Kurutmaz, M. B.*, **Barsbey, M.***, Cemgil, A. T., Yıldırım, S., & Şimşekli, U. _Causal Structure Learning in the Presence of Latent Confounders_, submitted to _Advances in Neural Information Processing Systems_, 2019.
+- Kurutmaz, M. B.\*, **Barsbey, M.\***, Cemgil, A. T., Yıldırım, S., & Şimşekli, U. _Causal Structure Learning in the Presence of Latent Confounders_, submitted to _Advances in Neural Information Processing Systems_, 2019.
 
 ### Causal discovery using Bayesian model selection
 
