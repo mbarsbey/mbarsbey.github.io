@@ -37,6 +37,6 @@ I have also conducted **statistical learning on high dimensional financial and b
 
 ## Background in behavioral and cognitive science
 
-I have also extensive experience with experiment design and statistical inference in behavioral science. In my master's research I conducted on an experimental 
+I have also extensive experience with experiment design and statistical inference in behavioral science. In my master's research I conducted on an experimental investigation on the mental representation on textual narratives. In my visit to UC Berkeley's Concepts and Cognition Lab, I have conducted research on the cognitive science of explanations. I have also taught introductory statistics courses for psychology students that included descriptive and inferential statistical methods.
 
 Images courtesy of BAM Research Group.
