@@ -15,7 +15,7 @@ Our latest research involves the **use of Bayesian model selection to conduct ca
 
 We also use Bayesian inference to obtain confounder representations (e.g. by sampling from the posterior distribution of the latent confounder) and to produce counterfactual predictions.
 
-## Using sequential Monte Carlo sampling to conduct model selection in graphical models
+## Model selection in graphical models through sequential Monte Carlo
 
 We use a dynamic formulation of Bayesian networks with discrete data, which corresponds to a simple Polya urn process. Our formulation allows us to develop a sequential Monte Carlo algorithm with which we can conduct model selection through an unbiased estimation of marginal likelihood in Bayesian networks including topic models and tensor factorizations. 
 
