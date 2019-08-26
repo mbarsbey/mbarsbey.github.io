@@ -23,7 +23,7 @@ We currently work on using Bayesian inference to obtain confounder representatio
 
 We use a dynamic formulation of Bayesian networks with discrete data, which corresponds to a **Polya urn process**. Our formulation allows us to develop a sequential Monte Carlo algorithm with which we can conduct model selection through an **unbiased estimation of marginal likelihood** in arbitrary Bayesian networks including those which correspond to various topic models and tensor factorizations. 
 
-![_config.yml]({{ site.baseurl }}/images/polya.png)
+![_config.yml]({{ site.baseurl }}/images/polya_s.png)
 
 The estimator also has the favorable property of computationally scaling with the number of instances as opposed to methods like VB, which scale with the cardinality of the variables. This feature makes the method favorable especially in cases such as decomposition of large, sparse tensors.
 
@@ -39,4 +39,6 @@ I have also conducted **statistical learning on high dimensional financial and b
 
 I have also extensive experience with experiment design and statistical inference in **cognitive science**. In my master's research I conducted on an experimental investigation on the **mental representations of textual narratives**. In my research visit to **UC Berkeley's Concepts and Cognition Lab**, I have conducted research on the **cognitive science of explanations**. I have also taught introductory statistics courses for psychology students that included **descriptive and inferential statistical methods** for social sciences.
 
-Images courtesy of BAM Research Group.
+In a work presented at the Summer Institute on Bounded Rationality in **Max Planck Institute on Human Development** I have presented exploratory work to investigate the effect of model complexity on survival in high uncertainty environments, using **agent-based modeling.**
+
+_Images courtesy of BAM Research Group_
