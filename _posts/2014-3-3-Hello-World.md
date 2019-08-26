@@ -7,7 +7,7 @@ published: true
 
 I am a Computer Engineering PhD student with a focus on probabilistic machine learning. My research areas include **causal inference, model selection, and latent variable modeling**. My advisor is **Prof. A. Taylan Cemgil** of Bogazici University, Istanbul. 
 
-I also have industry experience as a data scientist in **time series analysis and high dimensional financial data** as well as a background in experiment design, research, and statistical inference in **cognitive science**.
+I also have industry experience as a data scientist in **time series analysis** and statistical learning in **high dimensional financial data**, as well as a background in experiment design, research, and statistical inference in **cognitive science**.
 
 Below are some excerpts from my past work. Feel free to visit my <a href="github.com/mbarsbey">GitHub page</a>, my <a href="https://linkedin.com/in/melih-barsbey-b3626096/">LinkedIn profile</a>, or to e-mail me through _melih.barsbey at gmail.com_ for any questions.
 
