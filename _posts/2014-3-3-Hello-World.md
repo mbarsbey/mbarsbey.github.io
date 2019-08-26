@@ -9,7 +9,7 @@ I am a computer engineering PhD student with a focus on probabilistic machine le
 
 My advisor is Prof. **A. Taylan Cemgil** of Bogazici University, Istanbul. I have industry experience as a data scientist in time series analysis and high dimensional financial data. I also have a background in experiment design, research, and statistical inference in cognitive science.
 
-Below are some excerpts from my past work. Feel free to visit my GitHub page, my LinkedIn profile, and to e-mail me through melih.barsbey at gmail.com for any questions.
+Below are some excerpts from my past work. Feel free to visit my <a href="github.com/mbarsbey">GitHub page</a>, my <a href="https://linkedin.com/in/melih-barsbey-b3626096/">LinkedIn profile</a>, and to e-mail me through _melih.barsbey at gmail.com_ for any questions.
 
 ## Causal discovery using Bayesian model selection
 
@@ -29,14 +29,14 @@ The estimator also has the favorable property of computationally scaling with th
 
 ## Industry projects
 
-I have worked for two years as a data scientist in a software consultancy start-up in the financial sector. I have conducted time series analysis on financial data extensively where I was the lead developer of an ATM cash management forecast engine that managed approximately 8000 ATMs daily. 
+I have worked for two years as a data scientist in a software consultancy start-up in the financial sector. I have conducted **time series analysis** on financial data extensively, where I was the lead developer of an **ATM cash management forecast engine that managed approximately 8000 ATMs daily**. 
 
-I have lead a team of 5 data scientists onto a successful branch cash management proof of concept for a major Turkish bank with more than 800 branches, leading to savings of more than 30%. There I also oversaw the development of a simulation engine for what-if scenarios, which successfully predicted the savings obtained later. 
+I have **lead a team of 5 data scientists** in a successful branch cash management proof of concept for a major Turkish bank, leading to **savings of more than 30%**. There I also oversaw the development of **a simulation engine for what-if scenarios**, which successfully predicted the savings obtained later. 
 
-I have also conducted statistical learning on high dimensional financial and business data sets: e.g.  behavior oriented dimensionality reduction on bank customer interaction data, Bayesian modeling of customer call success for a bank's call center, and employee churn prediction for a high turnover business.
+I have also conducted **statistical learning on high dimensional financial and business data sets**: e.g.  behavior oriented dimensionality reduction on bank customer interaction data, Bayesian modeling of customer call success for a bank's call center, and employee churn prediction for a high turnover business.
 
 ## Background in behavioral and cognitive science
 
-
+I have also extensive experience with experiment design and statistical inference in behavioral science. In my master's research I conducted on an experimental 
 
 Images courtesy of BAM Research Group.
