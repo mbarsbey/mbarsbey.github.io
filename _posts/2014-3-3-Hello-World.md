@@ -9,7 +9,7 @@ I am a Computer Engineering PhD student with a focus on probabilistic machine le
 
 I also have industry experience as a data scientist in **time series analysis** and statistical learning in **high dimensional financial data**; as well as a background in experiment design, research, and statistical inference in **cognitive science**.
 
-Below are my publications and some excerpts from my past work. Feel free to visit my <a href="github.com/mbarsbey">GitHub page</a>, my <a href="www.linkedin.com/in/melih-barsbey">LinkedIn profile</a>, or to e-mail me through _melih.barsbey at gmail.com_ for any questions.
+Below are examples from recent and past work. Feel free to visit my <a href="github.com/mbarsbey">GitHub page</a>, my <a href="www.linkedin.com/in/melih-barsbey">LinkedIn profile</a>, or to e-mail me through _melih.barsbey at gmail.com_ for any questions.
 
 
 ## Recent Submissions
@@ -19,7 +19,7 @@ Below are my publications and some excerpts from my past work. Feel free to visi
 
 See my CV from the link above for full list of publications.
 
-## Excerpts from current work
+## Excerpts from current and past work
 ### Causal discovery using Bayesian model selection
 
 Our latest research involves the **use of Bayesian model selection to conduct causal structure learning** in the presence of latent confounders, including the notorious case of bivariate data. For example, distinguishing between the three graphical models depicted below is a challanging task. It corresponds to detection of direction of causation (or lack thereof) between two observed variables, while accounting for an unobserved latent variable:
