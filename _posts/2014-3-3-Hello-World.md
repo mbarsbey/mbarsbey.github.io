@@ -14,7 +14,11 @@ Below are my publications and some excerpts from my past work. Feel free to visi
 
 ### Recent Submissions
 
-- Kurutmaz, M. B.\*, **Barsbey, M.\***, Cemgil, A. T., Yıldırım, S., & Şimşekli, U. _Causal Structure Learning in the Presence of Latent Confounders_, submitted to _Advances in Neural Information Processing Systems_, 2019.
+- Kurutmaz, M. B.\*, **Barsbey, M.\***, Cemgil, A. T., Yıldırım, S., & Şimşekli, U. _Causal Structure Learning in the Presence of Latent Confounders_, submitted to _Advances in Neural Information Processing Systems_, 2019. \* Equal contribution
+- Cemgil, A. T., Kurutmaz, M. B., Yildirim, S., **Barsbey, M.**, Simsekli, U. Bayesian Allocation Model: Model Selection for Graphical Models with Latent Variables using Polya Urns, submitted to Bayesian Analysis, 2019.
+
+CONFERENCES[5]Kurutmaz, M. B., Cemgil, A. T., Şimşekli, U.,Barsbey, M., & Yıldırım, S.Bayesian Learningof Non-Negative Matrix/Tensor Factorizations by Simulating Pólya Urns. Paper presented atSymposium on Advances in Approximate Bayesian Inference, Montréal, Canada, Dec 2018.[4]Barsbey, M.Heuristics in an agent-based simulation: Investigating the effect of model complexityon learning performance. Poster presented at Summer Institute on Bounded Rationality, Berlin,Germany, Jul 2017.[3]Barsbey, M., & Lombrozo, T.,Linguistic differences in explanation requests and their effects on theevaluation of explanations: the case of English and Turkish. Poster presented at the annual meetingof the Cognitive Science Society, Berlin, Germany. Aug 2013.[2]Barsbey, M., Coşkun, T., Selçuk, Ş., & Ülkümen, A. D.,Mortality Salience and Self-DefiningMemories. PosterpresentedattheannualmeetingofCenteronAutobiographicalMemoryResearch,Aarhus, Jun 2013.[1]Barsbey, M., Aktan, D. N., & Bayram, O.,The effect of ambient temperature on decision makingprocesses. Poster presented at the biennial meeting of the Turkish Psychology Society, Istanbul,Turkey, Apr 2012.PREPRINTS[2]Cemgil,A.T.,Kurutmaz,M.B.,Yildirim,S.,Barsbey, M., Simsekli,U.BayesianAllocationModel:Inference by Sequential Monte Carlo for Nonnegative Tensor Factorizations and Topic Models usingPolya Urns.arXiv preprint arXiv:1903.04478. Mar 2019.[1]Barsbey, M.Perceptual simulations beyond the sentence: the effect of narrative shifts on perceptualsimulations. Unpublished master’s thesis. Boğaziçi University, Istanbul, Turkey, Aug 2014.
+
 
 ### Causal discovery using Bayesian model selection
 
