@@ -12,10 +12,11 @@ I also have industry experience as a data scientist in **time series analysis** 
 Below are my publications and some excerpts from my past work. Feel free to visit my <a href="github.com/mbarsbey">GitHub page</a>, my <a href="www.linkedin.com/in/melih-barsbey">LinkedIn profile</a>, or to e-mail me through _melih.barsbey at gmail.com_ for any questions.
 
 
-### Recent Submissions
+## Recent Submissions
 
-- Kurutmaz, M. B.\*, **Barsbey, M.\***, Cemgil, A. T., Yıldırım, S., & Şimşekli, U. _Causal Structure Learning in the Presence of Latent Confounders_, submitted to _Advances in Neural Information Processing Systems_, 2019. \* Equal contribution
+- Kurutmaz, M. B.\*, **Barsbey, M.\***, Cemgil, A. T., Yıldırım, S., & Şimşekli, U. _Causal Structure Learning in the Presence of Latent Confounders_, submitted to _Advances in Neural Information Processing Systems_, 2019. \*Equal contribution
 - Cemgil, A. T., Kurutmaz, M. B., Yildirim, S., **Barsbey, M.**, Simsekli, U. Bayesian Allocation Model: Model Selection for Graphical Models with Latent Variables using Polya Urns, submitted to Bayesian Analysis, 2019.
+See my CV from the link above for full list of publications
 
 ### Causal discovery using Bayesian model selection
 
