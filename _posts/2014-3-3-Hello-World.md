@@ -5,7 +5,7 @@ published: true
 ---
 
 
-I am a Computer Engineering PhD student with a focus on probabilistic machine learning. My research areas include **causal inference, model selection, and latent variable modeling**. My advisor is **Prof. A. Taylan Cemgil** of **Bogazici University**, who is on leave for sabbatical in **DeepMind London**.
+I am a Computer Engineering PhD student with a focus on probabilistic machine learning. My research areas include **causal inference, model selection, and latent variable modeling**. My advisor is **Prof. A. Taylan Cemgil** of **Bogazici University**, who is on research leave in **Google DeepMind London**.
 
 I also have industry experience as a data scientist in **time series analysis** and statistical learning in **high dimensional financial data**; as well as a background in experiment design, research, and statistical inference in **cognitive science**.
 
@@ -26,7 +26,7 @@ Our latest research involves the **use of Bayesian model selection to conduct ca
 
 ![_config.yml]({{ site.baseurl }}/images/three_causal_hypotheses.png)
 
-We are currently furthering our work by using Bayesian inference to obtain confounder representations (e.g. by sampling from the posterior distribution of the latent confounder) and to produce counterfactual predictions on the individual level.
+We are currently furthering our work by using Bayesian inference to obtain confounder representations (e.g. by sampling from the posterior distribution of the latent confounder) and improving the understanding of priors in causal model selection.
 
 ### Model selection in graphical models by sequential Monte Carlo
 
