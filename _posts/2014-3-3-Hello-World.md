@@ -5,7 +5,7 @@ published: true
 ---
 
 
-I am a Computer Engineering PhD student with a focus on probabilistic machine learning. My research areas include **causal inference, model selection, and latent variable modeling**. My advisor is **Prof. A. Taylan Cemgil** of **Bogazici University**, who is on research leave in **Google DeepMind London**.
+I am a Computer Engineering PhD student with a focus on probabilistic machine learning. My research areas include **causal discovery, model selection, and latent variable modeling**. My advisor is **Prof. A. Taylan Cemgil** of **Bogazici University**, who is on research leave in **Google DeepMind London**.
 
 I also have industry experience as a data scientist in **time series analysis** and statistical learning in **high dimensional financial data**; as well as a background in experiment design, research, and statistical inference in **cognitive science**.
 
