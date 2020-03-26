@@ -17,7 +17,7 @@ Below you can find examples from recent and past work. Feel free to visit my <a 
 - Kurutmaz, M. B.\*, **Barsbey, M.\***, Cemgil, A. T., Yıldırım, S., & Şimşekli, U. _Bayesian Model Selection for Identifying Markov Equivalent Causal Graphs_. Paper presented at _Advances in Approximate Bayesian Inference_, 2019. \*Equal contribution
 - Cemgil, A. T., Kurutmaz, M. B., Yildirim, S., **Barsbey, M.**, Simsekli, U. _Bayesian Allocation Model: Model Selection for Graphical Models with Latent Variables using Polya Urns_, submitted to _Bayesian Analysis_, 2019.
 
-Please see my <a href="images/melih_barsbey_cv">CV</a> for full list of publications.
+Please see my <a href="images/Melih_Barsbey_CV">CV</a> for full list of publications.
 
 ## Excerpts from current and past work
 ### Causal discovery using Bayesian model selection
