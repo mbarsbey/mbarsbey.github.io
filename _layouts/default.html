@@ -17,11 +17,8 @@
       <header>
         <h2><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         <h4>{{ site.description | default: site.github.project_tagline }}</h3>
-        img {
-          border: 5px solid #d68300;
-        }
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Pic";/>
+          <img src="{{site.logo | relative_url}}" style="border: 5px solid #d68300;" alt="Pic";/>
         {% endif %}
 
         {% if site.github.is_project_page %}
