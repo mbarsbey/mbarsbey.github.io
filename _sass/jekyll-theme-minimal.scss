@@ -142,14 +142,20 @@ ul.downloads {
   float:left;
   border-right:1px solid #e0e0e0;
   height:40px;
+  text-align:center;
+  vertical-align: middle;
 }
 
 .downloads li:first-child a {
   border-radius:5px 0 0 5px;
+  text-align:center;
+  vertical-align: middle;
 }
 
 .downloads li:last-child a {
   border-radius:0 5px 5px 0;
+  text-align:center;
+  vertical-align: middle;
 }
 
 .downloads a {
@@ -160,31 +166,43 @@ ul.downloads {
   text-align:center;
   padding-top:6px;
   height:34px;
+  text-align:center;
+  vertical-align: middle;
 }
 
 .downloads a:hover, .downloads a:focus {
   color:#675C5C;
   font-weight:bold;
+  text-align:center;
+  vertical-align: middle;
 }
 
 .downloads ul a:active {
   background-color:#f0f0f0;
+  text-align:center;
+  vertical-align: middle;
 }
 
 strong {
   color:#222;
   font-weight:700;
+  text-align:center;
+  vertical-align: middle;
 }
 
 .downloads li + li + li {
   border-right:none;
   width:89px;
+  text-align:center;
+  vertical-align: middle;
 }
 
 .downloads a strong {
   font-size:14px;
   display:block;
   color:#222;
+  text-align:center;
+  vertical-align: middle;
 }
 
 section {
