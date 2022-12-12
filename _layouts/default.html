@@ -15,8 +15,8 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1 style="margin-bottom:-10px;"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        <h3>{{ site.description | default: site.github.project_tagline }}</h3>
+        <h1 style="margin-bottom:-4px;"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h4>{{ site.description | default: site.github.project_tagline }}</h3>
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" style="border: 2px solid #0053d6;" alt="Pic";/>
         {% endif %}
@@ -30,7 +30,7 @@
         {% endif %} -->
 
         {% if site.show_downloads %}
-        <ul class="downloads">
+        <ul class="downloads" style="text-align:center;">
           <li style="text-align:center;"><a href="assets/pdf/Melih_Barsbey_CV.pdf"><strong>CV</strong></a></li>
           <li style="text-align:center;"><a href="https://scholar.google.com/citations?user=cmDBJlEAAAAJ&hl=en"><strong>Google Scholar</strong></a></li>
           <li style="text-align:center;"><a href="https://github.com/mbarsbey"><strong>GitHub</strong></a></li>
