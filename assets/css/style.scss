@@ -2,3 +2,39 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+// Sidebar scrolls with the page instead of staying fixed
+header {
+  position: static;
+}
+
+// Right column: slightly smaller text, tighter list indent
+section {
+  font-size: 14px;
+}
+
+section ul {
+  padding-left: 18px;
+}
+
+section h3 {
+  margin-bottom: 9px;
+  font-size: calc(1.17em + 1px);
+}
+
+// Optical alignment of the name with the subtitle (side bearing of the large "M")
+header h1 {
+  margin-left: -1px;
+}
+
+// Two-column layout: right column nudged down to sit optically level with the name
+@media screen and (min-width: 961px) {
+  section {
+    margin-top: 3px;
+  }
+}
+
+// Dates at the start of each Updates item
+section li > strong:first-child {
+  font-size: 15px;
+}
